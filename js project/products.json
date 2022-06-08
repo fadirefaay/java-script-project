@@ -1,0 +1,142 @@
+[{
+        "img": "../photos/products/nike.jpg",
+        "name": "nike",
+        "id": 1,
+        "price": "2000",
+        "desc": "running shoes"
+
+    },
+    {
+        "img": "../photos/products/nike2.jpg",
+        "name": "nike",
+        "id": 2,
+        "price": "3000",
+        "desc": "running shoes"
+    },
+    {
+        "img": "../photos/products/nike3.jpg",
+        "name": "nike",
+        "id": 3,
+        "price": "4000",
+        "desc": "running shoes"
+    },
+    {
+        "img": "../photos/products/adidas.webp",
+        "name": "adidas",
+        "id": 4,
+        "price": "5000",
+        "desc": "running shoes"
+    },
+    {
+        "img": "../photos/products/adidas2.webp",
+        "name": "adidas",
+        "id": 5,
+        "price": "6000",
+        "desc": "running shoes"
+    },
+    {
+        "img": "../photos/products/adidas3.webp",
+        "name": "adidas",
+        "id": 6,
+        "price": "7000",
+        "desc": "running shoes"
+    },
+    {
+        "img": "../photos/products/puma1.jpg",
+        "name": "puma",
+        "id": 7,
+        "price": "8000",
+        "desc": "running shoes"
+    },
+    {
+        "img": "../photos/products/puma2.jpg",
+        "name": "puma",
+        "id": 8,
+        "price": "9000",
+        "desc": "running shoes"
+    },
+    {
+        "img": "../photos/products/puma3.jfif",
+        "name": "puma",
+        "id": 9,
+        "price": "10000",
+        "desc": "running shoes"
+    },
+    {
+        "img": "../photos/products/nike.jpg",
+        "name": "nike",
+        "id": 10,
+        "price": "2000",
+        "desc": "running shoes"
+    },
+    {
+        "img": "../photos/products/adidas2.webp",
+        "name": "adidas",
+        "id": 11,
+        "price": "2000",
+        "desc": "running shoes"
+    },
+    {
+        "img": "../photos/products/puma1.jpg",
+        "name": "puma",
+        "id": 12,
+        "price": "2000",
+        "desc": "running shoes"
+    },
+    {
+        "img": "../photos/products/puma3.jfif",
+        "name": "puma",
+        "id": 13,
+        "price": "10000",
+        "desc": "running shoes"
+    },
+    {
+        "img": "../photos/products/nike3.jpg",
+        "name": "nike",
+        "id": 14,
+        "price": "4000",
+        "desc": "running shoes"
+    },
+    {
+        "img": "../photos/products/adidas.webp",
+        "name": "adidas",
+        "id": 15,
+        "price": "5000",
+        "desc": "running shoes"
+    },
+    {
+        "img": "../photos/products/puma3.jfif",
+        "name": "puma",
+        "id": 16,
+        "price": "10000",
+        "desc": "running shoes"
+    },
+    {
+        "img": "../photos/products/nike.jpg",
+        "name": "nike",
+        "id": 17,
+        "price": "2000",
+        "desc": "running shoes"
+    },
+    {
+        "img": "../photos/products/adidas2.webp",
+        "name": "adidas",
+        "id": 18,
+        "price": "2000",
+        "desc": "running shoes"
+    },
+    {
+        "img": "../photos/products/puma1.jpg",
+        "name": "puma",
+        "id": 19,
+        "price": "2000",
+        "desc": "running shoes"
+    },
+    {
+        "img": "../photos/products/puma3.jfif",
+        "name": "puma",
+        "id": 20,
+        "price": "10000",
+        "desc": "running shoes"
+    }
+]

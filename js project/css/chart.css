@@ -1,0 +1,48 @@
+#chart {
+    display: flex;
+    margin-bottom: 10vh;
+    width: 90%;
+    height: 80vh;
+    margin: auto;
+    align-content: center;
+    justify-content: center;
+    padding: 50px;
+}
+
+#chart img {
+    width: 30%;
+    border-radius: 10px;
+    border: 1px solid blue;
+}
+
+#chart div {
+    margin-left: 40px;
+    justify-self: center;
+    width: 60%;
+    padding: 20px;
+    vertical-align: middle;
+    border: 1px solid blue;
+    border-radius: 10px;
+}
+
+#chart div h1,
+#chart div h2,
+#chart div p {
+    margin-top: 20px;
+}
+
+#chart div button {
+    margin-top: 30px;
+    padding: 5px 10px;
+    border: solid 1px blue;
+    color: blue;
+    background-color: white;
+    border-radius: 8px;
+}
+
+#chart div button:hover {
+    cursor: pointer;
+    transform: scale(1.2);
+    background-color: blue;
+    color: white;
+}

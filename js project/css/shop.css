@@ -1,0 +1,12 @@
+#products {
+    margin-top: 50px;
+    width: 100%;
+}
+
+#products ul {
+    width: 90%;
+    margin: auto;
+    background-color: rgb(238, 236, 236);
+    padding: 10px;
+    margin-bottom: 20px;
+}
